@@ -14,7 +14,7 @@ class Slingshot{
     //write code for attach( ) here
     
         attach(body){
-            this.slingShot.bodyA = body;
+            this.sling.bodyA = body;
            }
     
 
